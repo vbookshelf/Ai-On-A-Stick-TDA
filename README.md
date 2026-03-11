@@ -21,7 +21,8 @@ This is a Thumb-Drive App (TDA).
 
 ## Download the Project Folder
 
-The code is stored in a Hugging Face dataset. Please click this link to auto download:<br>
+The code is stored in a Hugging Face dataset. Hugging Face automatically generates SHA256 hashes for every file in a dataset repository. This gives this project better verifiability than most conventional software downloads.<br>
+Please click this link to auto download:<br>
 https://huggingface.co/datasets/vbookshelf/Ai-On-A-Stick-TDA/resolve/main/AI-On-A-Stick-v1.0-TDA.zip?download=true
 
 <br>
