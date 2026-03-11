@@ -1,2 +1,11 @@
-# Ai-On-A-Stick-TDA
-A light, offline, portable Ai Console for Mac and Windows. Includes data encryption. Powered by Gemma3:4b.
+# Ai-On-A-Stick
+A light, offline, portable Ai Console for Mac and Windows. Powered by Gemma3:4b.
+
+- Works completely offline.
+- No installation needed. Double-click to run.
+- Light enough to run on a CPU.
+- Fully self contained. All dependencies are bundled - including Ollama and the Gemma3 4b 4-bit model.
+- Locked to localhost. All user submitted data is encrypted.
+- Supports LaTeX and code rendering.
+- Create specialized assistants to streamline your workflow.
+- Easy to share using a USB Drive of via AirDrop. All dependencies travel with the copy.
