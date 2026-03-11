@@ -11,6 +11,13 @@ An offline, portable Ai Console for macOS. Powered by Gemma3:12b.
 
 <br>
 
+<img src="images/image1.png" alt="User interface" height="400">
+
+<img src="images/image2.png" alt="User interface" height="400">
+
+
+<br>
+
 ## Download the Project Folder
 
 The code is stored in a Hugging Face dataset. Please click this link to auto download:<br>
