@@ -1,5 +1,5 @@
 # Ai-On-A-Stick
-A light, offline, portable Ai Console for Mac and Windows. Powered by Gemma3:4b.
+A light, offline, portable Ai Console for macOS. Powered by Gemma3:4b.
 
 - Works completely offline.
 - No installation needed. Double-click to run.
@@ -22,7 +22,7 @@ The code is stored in a Hugging Face dataset. Please click this link to auto dow
 
 <strong>System Requirements</strong>
 
-<strong>Operating System</strong>: macOS or Windows<br>
+<strong>Operating System</strong>: macOS<br>
 <strong>Memory</strong>: 8 GB RAM (16 GB recommended)<br>
 <strong>Storage</strong>: 5 GB
 
