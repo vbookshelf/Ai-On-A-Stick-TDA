@@ -8,7 +8,7 @@ A light, offline, portable Ai Console for Mac and Windows. Powered by Gemma3:4b.
 - Locked to localhost. All user submitted data is encrypted.
 - Supports LaTeX and code rendering.
 - Create specialized assistants - translation, summarization, tutoring etc.
-- Easy to share using a USB Drive of via AirDrop. All dependencies travel with the copy.
+- Easy to share using a USB Drive or via AirDrop. All dependencies travel with the copy.
 
 <br>
 
