@@ -14,6 +14,7 @@ An offline, portable Ai Console for macOS. Powered by Gemma3:12b.
 ## Download the Project Folder
 
 The code is stored in a Hugging Face dataset. Please click this link to auto download:<br>
+https://huggingface.co/datasets/vbookshelf/Ai-On-A-Stick-TDA/resolve/main/AI-On-A-Stick-v1.0-TDA.zip?download=true
 
 <br>
 
