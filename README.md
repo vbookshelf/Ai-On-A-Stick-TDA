@@ -78,6 +78,8 @@ https://github.com/vbookshelf/Thumb-Drive-App-Concept
 - Single-File Architecture: One file to rule the all<br>
 https://github.com/vbookshelf/Single-File-Flask-Web-App
 
+<br>
+
 ## Revision History
 
 Version 1.0<br>
