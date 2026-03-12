@@ -19,6 +19,19 @@ This is a Thumb-Drive App (TDA).
 
 <br>
 
+## What problem does this solve?
+
+Most AI tools require you to send your data to the cloud. For anyone working with sensitive information — medical records, legal documents, financial data, or confidential research — this is a dealbreaker. You have two choices: Don't use AI assistance or accept the risk that your data may be leaked. Also, self-hosted AI solutions require a local setup that can be intimidating for non-technical users.
+
+Ai-On-A-Stick solves both problems.
+
+It's a fully offline, zero-install AI console that runs entirely on your local machine. Your data never leaves your device. Just double-click to launch. All dependencies, including Ollama and the Gemma3 12b model, are bundled into a single portable folder that can be carried on a USB drive or shared via AirDrop. User data is encrypted at rest, and the app is locked to localhost so no external connections are possible. The result is a capable, private AI assistant that anyone can use on sensitive data, with no setup friction and no privacy tradeoffs.
+
+Also, built-in LaTeX and code rendering makes Ai-On-A-Stick a capable educational tool. Students can work through mathematics, physics, and engineering problems and see equations rendered properly — the way they would appear in a textbook — rather than as raw markup. For programming students, code responses are syntax-highlighted and properly formatted. This makes the code easy to read and learn from. And because the app works completely offline with no account or subscription required, it's accessible to all students, regardless of whether or not they have internet access.
+
+
+<br>
+
 ## Download the Project Folder
 
 The code is stored in a Hugging Face dataset. Hugging Face automatically generates SHA256 hashes for every file in a dataset repository. This gives this project better verifiability than most conventional software downloads.<br>
