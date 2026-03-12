@@ -72,6 +72,9 @@ cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x st
 
 ## References
 
+- HuggingFace Dataset<br>
+  https://huggingface.co/datasets/vbookshelf/Ai-On-A-Stick-TDA
+
 - Thumb-Drive App Concept<br>
 https://github.com/vbookshelf/Thumb-Drive-App-Concept
 
