@@ -1,5 +1,5 @@
 # Ai-On-A-Stick
-An offline, portable Ai Console for macOS. Powered by Gemma3:12b.<br>
+An offline Ai Console for macOS. Powered by Gemma3:12b.<br>
 This is a Thumb-Drive App (TDA).
 
 - Works completely offline.
