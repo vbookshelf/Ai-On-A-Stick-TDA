@@ -78,7 +78,7 @@ cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x st
 - Thumb-Drive App Concept<br>
 https://github.com/vbookshelf/Thumb-Drive-App-Concept
 
-- Single-File Architecture: One file to rule the all<br>
+- Single-File Architecture: One file to rule them all<br>
 https://github.com/vbookshelf/Single-File-Flask-Web-App
 
 <br>
