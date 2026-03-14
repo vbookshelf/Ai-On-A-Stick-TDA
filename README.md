@@ -52,17 +52,17 @@ https://huggingface.co/datasets/vbookshelf/Ai-On-A-Stick-TDA/resolve/main/AI-On-
 ```
 [ macOS ]
 
-1. Unzip the AI-On-A-Stick-v1.0-TDA.zip file and place it on your desktop.
+1. Unzip the AI-On-A-Stick-v2.0-TDA.zip file and place it on your desktop.
 2. Open the terminal (Command+Space, type "Terminal")
 3. Paste this command into the terminal and press Enter:
 
-cd Desktop/AI-On-A-Stick-v1.0-TDA
+cd Desktop/AI-On-A-Stick-v2.0-TDA
 
 4. Paste this command into the terminal and press Enter:
 
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 
-5. Open the AI-On-A-Stick-v1.0-TDA folder.
+5. Open the AI-On-A-Stick-v2.0-TDA folder.
 6. Double-click: start-mac-app.command
 7. If a macOS security popup appears, click: "Allow"
 
