@@ -35,8 +35,8 @@ Also, built-in LaTeX and code rendering makes Ai-On-A-Stick a capable educationa
 ## Download the Project Folder
 
 The code is stored in a Hugging Face dataset. Hugging Face automatically generates SHA256 hashes for every file in a dataset repository. This gives this project better verifiability than most conventional software downloads.<br>
-Please click this link to auto download:<br>
-https://huggingface.co/datasets/vbookshelf/Ai-On-A-Stick-TDA/resolve/main/AI-On-A-Stick-v1.0-TDA.zip?download=true
+Please click this link to auto download the latest version:<br>
+https://huggingface.co/datasets/vbookshelf/Ai-On-A-Stick-TDA/resolve/main/AI-On-A-Stick-v2.0-TDA.zip?download=true
 
 <br>
 
@@ -84,6 +84,13 @@ https://github.com/vbookshelf/Single-File-Flask-Web-App
 <br>
 
 ## Revision History
+
+Version 2.0<br>
+14-March-2026<br>
+Prototype. Released for testing.<br>
+- Fixed a bug. When multiple apps were open, closing one app resulted in the code trying to close all open apps. Now multiple TDAs can be used at the same time.
+- Previously, if the app detected that the model was missing during startup, it would auto download the model. Now auto download is disabled. It can be enabled by setting ALLOW_MODEL_DOWNLOAD=1 in the start-mac-app.command file.
+
 
 Version 1.0<br>
 11-March-2026<br>
